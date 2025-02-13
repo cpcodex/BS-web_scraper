@@ -1,0 +1,2 @@
+Each .txt file will have one post specific data implemented on it.
+Future will collaborate all the posts into one file for ease of use.
